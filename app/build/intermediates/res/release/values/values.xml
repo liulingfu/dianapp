@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/www.github.com/dian_app/app/src/main/res/values/color.xml -->
+    <!-- From: file:/D:/www.github.com/dianapp/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="possible_result_points">#c0ffff00</color>
     <color name="result_view">#b0000000</color>
     <color name="viewfinder_mask">#60000000</color>
-    <!-- From: file:/D:/www.github.com/dian_app/app/src/main/res/values/ids.xml -->
+    <!-- From: file:/D:/www.github.com/dianapp/app/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="about_version_code" type="id">false</item>
     <item name="auto_focus" type="id"/>
@@ -23,11 +23,11 @@
     <item name="search_book_contents_succeeded" type="id"/>
     <item name="split" type="id">false</item>
     <item name="webview" type="id"/>
-    <!-- From: file:/D:/www.github.com/dian_app/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/www.github.com/dianapp/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">典当贷</string>
     <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
-    <!-- From: file:/D:/www.github.com/dian_app/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/D:/www.github.com/dianapp/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
