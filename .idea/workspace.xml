@@ -7,163 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f933646-8125-44de-95eb-0386547dc71c" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\generated\source\buildConfig\androidTest\debug\com\example\qr_codescan\test\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\generated\source\buildConfig\release\com\app\diandd\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\generated\source\r\release\com\app\diandd\R.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MainActivity$myWebClient.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MipcaActivityCapture$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MipcaActivityCapture$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\MipcaActivityCapture.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\SplashActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\app\diandd\SplashActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\MipcaActivityCapture$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\MipcaActivityCapture$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\MipcaActivityCapture.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\SplashActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\debug\com\example\qr_codescan\SplashActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\cn\eoe\leigo\splash\adapter\ViewPagerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\MipcaActivityCapture$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\MipcaActivityCapture$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\MipcaActivityCapture.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\SplashActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\app\diandd\SplashActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\camera\AutoFocusCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\camera\CameraConfigurationManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\camera\CameraManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\camera\FlashlightManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\camera\PlanarYUVLuminanceSource.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\camera\PreviewCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\CaptureActivityHandler$State.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\CaptureActivityHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\DecodeFormatManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\DecodeHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\DecodeThread.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\FinishListener.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\InactivityTimer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\InactivityTimer$DaemonThreadFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\InactivityTimer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\Intents$Encode.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\Intents$Scan.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\Intents$SearchBookContents.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\Intents$Share.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\Intents$WifiConnect.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\decoding\Intents.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\view\ViewfinderResultPointCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\classes\release\com\mining\app\zxing\view\ViewfinderView.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\dex\debug\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\dex\release\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\incremental\aidl\release\dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\incremental\mergeAssets\release\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\incremental\mergeResources\release\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\manifests\full\release\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0d9a08cf2e3079cdb2a457bb4003b961bc546395.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\pre-dexed\debug\zxing-f45c11ae380feb5dd2148a5f5b90cf4f1113accd.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-0d9a08cf2e3079cdb2a457bb4003b961bc546395.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\pre-dexed\release\zxing-f8a9d212930d57bc02838f39586fc986ecf62187.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-hdpi\loading0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-hdpi\mm_title_back_focused.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-hdpi\mm_title_back_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-hdpi\mm_title_back_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-hdpi\mmtitle_bg_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-ldpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-ldpi\loading0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-mdpi\loading0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\drawable\mm_title_back_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\layout\activity_capture.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\layout\activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\layout\activity_title.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\layout\splash.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\menu\activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\raw\beep.ogg" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\raw\realm_properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\values-v11\values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\values-v14\values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\res\release\values\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\intermediates\resources\resources-release.ap_" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\apk\app-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\apk\app-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\apk\app-release-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\lint-results-release-fatal.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\lint-results-release-fatal.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\lint-results-release-fatal_files\hololike.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\www.github.com\dianapp\app\build\outputs\logs\manifest-merger-release-report.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/decoding/CaptureActivityHandler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/decoding/CaptureActivityHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/decoding/DecodeHandler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/decoding/DecodeHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/decoding/DecodeThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/decoding/DecodeThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cn/eoe/leigo/splash/adapter/ViewPagerAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cn/eoe/leigo/splash/adapter/ViewPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/view/ViewfinderView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/mining/app/zxing/view/ViewfinderView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dianapp.apk" afterPath="$PROJECT_DIR$/app/dianapp.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-hdpi/loading0.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-hdpi/loading0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-ldpi/loading0.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-ldpi/loading0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/loading0.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/loading0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/decoding/CaptureActivityHandler.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/decoding/CaptureActivityHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/decoding/DecodeHandler.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/decoding/DecodeHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/decoding/DecodeThread.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/decoding/DecodeThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/cn/eoe/leigo/splash/adapter/ViewPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/cn/eoe/leigo/splash/adapter/ViewPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/view/ViewfinderView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/view/ViewfinderView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\www.github.com\dianapp\app\build\generated\source\buildConfig\debug\com\app\diandd\BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/app/diandangdai/BuildConfig.java" />
-      <change type="MOVED" beforePath="D:\www.github.com\dianapp\app\build\generated\source\r\debug\com\app\diandd\R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/app/diandangdai/R.java" />
-      <change type="MOVED" beforePath="D:\www.github.com\dianapp\app\src\main\java\com\app\diandd\MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/diandangdai/MainActivity.java" />
-      <change type="MOVED" beforePath="D:\www.github.com\dianapp\app\src\main\java\com\app\diandd\MipcaActivityCapture.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/diandangdai/MipcaActivityCapture.java" />
-      <change type="MOVED" beforePath="D:\www.github.com\dianapp\app\src\main\java\com\app\diandd\SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/diandangdai/SplashActivity.java" />
     </list>
     <ignored path="dianapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -262,8 +108,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20188902">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.75878596">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1919,7 +1765,13 @@
       <option name="project" value="LOCAL" />
       <updated>1496191449193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modify">
+      <created>1496712826514</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1496712826514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1937,7 +1789,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.025583982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.243604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1968,7 +1820,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化典当贷url 项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化典当贷url 项目" />
+    <MESSAGE value="modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2216,8 +2069,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20188902">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.75878596">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
