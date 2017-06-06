@@ -23,8 +23,8 @@ import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 
-import com.app.diandd.MipcaActivityCapture;
-import com.app.diandd.R;
+import com.app.diandangdai.MipcaActivityCapture;
+import com.app.diandangdai.R;
 import com.google.zxing.BinaryBitmap;
 import com.google.zxing.DecodeHintType;
 import com.google.zxing.MultiFormatReader;

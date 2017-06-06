@@ -33,7 +33,7 @@ ADDED from AndroidManifest.xml:10:5
 		ADDED from AndroidManifest.xml:12:9
 	android:theme
 		ADDED from AndroidManifest.xml:14:9
-activity#com.app.diandd.SplashActivity
+activity#com.app.diandangdai.SplashActivity
 ADDED from AndroidManifest.xml:15:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:20:13
@@ -57,7 +57,7 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:28:17
 	android:name
 		ADDED from AndroidManifest.xml:28:27
-activity#com.app.diandd.MipcaActivityCapture
+activity#com.app.diandangdai.MipcaActivityCapture
 ADDED from AndroidManifest.xml:31:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:35:13
@@ -67,7 +67,7 @@ ADDED from AndroidManifest.xml:31:9
 		ADDED from AndroidManifest.xml:34:13
 	android:name
 		ADDED from AndroidManifest.xml:33:13
-activity#com.app.diandd.GuideActivity
+activity#com.app.diandangdai.GuideActivity
 ADDED from AndroidManifest.xml:38:10
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:41:13
@@ -77,7 +77,7 @@ ADDED from AndroidManifest.xml:38:10
 		ADDED from AndroidManifest.xml:42:13
 	android:name
 		ADDED from AndroidManifest.xml:39:13
-activity#com.app.diandd.MainActivity
+activity#com.app.diandangdai.MainActivity
 ADDED from AndroidManifest.xml:43:9
 	android:name
 		ADDED from AndroidManifest.xml:43:19

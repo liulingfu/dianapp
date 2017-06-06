@@ -4,7 +4,7 @@ import java.util.List;
 
 
 
-import com.app.diandd.MainActivity;
+import com.app.diandangdai.MainActivity;
 
 import android.app.Activity;
 import android.content.Context;
