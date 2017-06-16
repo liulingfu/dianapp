@@ -27,8 +27,8 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
-import com.app.diandangdai.MipcaActivityCapture;
-import com.app.diandangdai.R;
+import com.app.diandd.MipcaActivityCapture;
+import com.app.diandd.R;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
 import com.mining.app.zxing.camera.CameraManager;

@@ -1,4 +1,4 @@
-package com.app.diandangdai;
+package com.app.diandd;
 
 import android.app.Activity;
 import android.content.Intent;

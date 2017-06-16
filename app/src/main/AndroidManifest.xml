@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.diandangdai"
+    package="com.app.diandd"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -13,7 +13,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar" >
         <activity
-            android:name=".SplashActivity"
+            android:name="com.app.diandd.SplashActivity"
             android:configChanges="keyboardHidden"
             android:label="@string/app_name"
             android:launchMode="singleTask"
@@ -30,7 +30,7 @@
         </activity>
         <activity
             
-            android:name=".MipcaActivityCapture"
+            android:name="com.app.diandd.MipcaActivityCapture"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden" >
@@ -40,7 +40,7 @@
             android:configChanges="keyboardHidden"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-        <activity android:name=".MainActivity" />
+        <activity android:name="com.app.diandd.MainActivity" />
     </application>
 
     <uses-permission android:name="android.permission.VIBRATE" />

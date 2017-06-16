@@ -1,4 +1,4 @@
-package com.app.diandangdai;
+package com.app.diandd;
 
 import java.io.IOException;
 import java.util.Vector;
